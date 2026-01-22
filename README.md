@@ -16,8 +16,10 @@ AFMR/
 ├─ LICENSE # MIT License
 ├─ .gitignore # Ignore temporary / data files
 ├─ code/ # Core MATLAB scripts
+│   ├─ genSpectrogram.m
 │   ├─ train.m
 │   ├─ test.m
+│   ├─ recon_spectra.m
 │   └─ utils/ # Helper functions
 ├─ data/ # Demo data only
 │   └─ demo_data.mat
