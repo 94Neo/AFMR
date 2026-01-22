@@ -10,20 +10,23 @@ This repository provides the MATLAB code to reproduce the main results of the pa
 ---
 
 ## 2. Repository Structure
+<pre>
+```text
 AFMR/
 ├─ README.md # This file
 ├─ LICENSE # MIT License
 ├─ .gitignore # Ignore temporary / data files
 ├─ code/ # Core MATLAB scripts
-│ ├─ train.m
-│ ├─ test.m
-│ └─ utils/ # Helper functions
+│   ├─ train.m
+│   ├─ test.m
+│   └─ utils/ # Helper functions
 ├─ data/ # Demo data only
-│ └─ demo_data.mat
+│   └─ demo_data.mat
 ├─ experiments/ # Scripts to reproduce figures in the paper
-│ └─ reproduce_fig3.m
+│   └─ reproduce_fig3.m
 └─ results/ # Example output
-└─ example_output.png
+    └─ example_output.png
+</pre>
 
 > **Note:** Full experimental data is not publicly available. Demo data is provided for verification purposes.
 
@@ -40,10 +43,7 @@ AFMR/
 
 1. Download or clone this repository.  
 2. Navigate to the `experiments/` folder.  
-3. Run a demo script to reproduce a figure:
-
-```matlab
-run experiments/reproduce_fig3.m
+3. Run a demo script to reproduce a figure.
 
 ---
 
