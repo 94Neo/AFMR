@@ -52,13 +52,6 @@ Please cite our paper if you use this code:
 
 Peng, Y., et al. (2026). Recognition of Foodborne Pathogens in Single-Cell Raman Spectroscopy Based on the Adaptive Frequency Mask Reconstruction (AFMR) Method. *Food Research International*.
 
-@article{Peng2026AFMR,
-  title={Recognition of Foodborne Pathogens in Single-Cell Raman Spectroscopy Based on the Adaptive Frequency Mask Reconstruction (AFMR) Method},
-  author={Peng, Y. and others},
-  journal={Food Research International},
-  year={2026}
-}
-
 ---
 
 ## 7. License
