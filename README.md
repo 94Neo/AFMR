@@ -56,25 +56,3 @@ Peng, Y., et al. (2026). Recognition of Foodborne Pathogens in Single-Cell Raman
 
 ## 7. License
 This repository is released under the MIT License. See LICENSE for details.
-
----
-
-### .gitignore Explanation
-
-This repository uses a `.gitignore` file to keep the repository clean and safe:
-
-- **Ignored files**:
-  - Temporary MATLAB files (`*.m~`, `*.asv`)
-  - Compiled MEX files (`*.mex*`)
-  - MATLAB figures (`*.fig`)
-  - Large raw data (`*.mat`)
-  - Simulink cache files (`slprj/`, `*_slprj/`)
-  - System generated files (`.DS_Store`, `Thumbs.db`)
-  - Training checkpoints or model files (`*.ckpt`, `*.h5`, `*.pth`)
-
-- **Kept files**:
-  - Demo data: `data/demo_data.mat`
-  - Example output: `results/example_output.png`
-
-> This ensures the repository remains clean, while demo scripts and example outputs are included for reproducibility.
-
