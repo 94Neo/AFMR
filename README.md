@@ -11,7 +11,6 @@ This repository provides the MATLAB code to reproduce the main results of the pa
 
 ## 2. Repository Structure
 <pre>
-```text
 AFMR/
 ├─ README.md # This file
 ├─ LICENSE # MIT License
