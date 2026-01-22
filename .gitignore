@@ -1,0 +1,37 @@
+# ===========================
+# MATLAB temporary / cache files
+# ===========================
+*.asv        # MATLAB autosave files
+*.m~         # Temporary backup files
+*.mex*       # Compiled MEX files
+slprj/       # Simulink project cache
+*_slprj/     # Simulink generated temporary files
+
+# ===========================
+# MATLAB output / data
+# ===========================
+*.mat        # Avoid uploading full raw data
+*.fig        # MATLAB figure files
+*.mdl        # Simulink models (optional)
+*.slx        # Simulink models (optional)
+
+# ===========================
+# System generated files
+# ===========================
+.DS_Store    # macOS system file
+Thumbs.db    # Windows system file
+
+# ===========================
+# Training checkpoints / model files
+# ===========================
+*.ckpt
+*.h5
+*.pth
+
+# ===========================
+# Keep demo data and example outputs
+# ===========================
+# Keep demo data
+!data/demo_data.mat
+# Keep example output files
+!results/example_output.png
