@@ -19,12 +19,11 @@ AFMR/
 │   ├─ genSpectrogram.m
 │   ├─ train.m
 │   ├─ test.m
-│   ├─ recon_spectra.m
+│   ├─ denoising.m
 │   └─ utils/ # Helper functions
 ├─ data/ # Demo data only
-│   └─ demo_data.mat
-├─ experiments/ # Scripts to reproduce figures in the paper
-│   └─ reproduce_fig3.m
+│   └─ demoData.mat
+│   └─ demoNoisyData.mat
 └─ results/ # Example output
     └─ example_output.png
 </pre>
