@@ -20,7 +20,6 @@ AFMR/
 │   ├─ train.m
 │   ├─ test.m
 │   ├─ denoising.m
-│   └─ utils/ # Helper functions
 ├─ data/ # Demo data only
 │   └─ demoData.mat
 │   └─ demoNoisyData.mat
