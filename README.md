@@ -50,8 +50,8 @@ AFMR/
 
 Please cite our paper if you use this code:
 
-Peng, Y., Du, X., Xia, H., Sun, J., Gao, F., Sun, Y., ... & Li, Q. (2026). Adaptive frequency mask reconstruction (AFMR) for enhancing single-cell Raman spectra. *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy*, 129121.  https://doi.org/10.1016/j.saa.2026.129121
-
+Yingxiao Peng, Xinyue Du, Hua Xia, Jiazheng Sun, Feng Gao, Yi Sun, Jiayi Wang, Xiangyun Ma, Yunpeng Yang, Qifeng Li, Adaptive frequency mask reconstruction (AFMR) for enhancing single-cell Raman spectra,
+Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, Volume 368, Part 1, 2027, 129121, ISSN 1386-1425, https://doi.org/10.1016/j.saa.2026.129121.
 ---
 
 ## 7. License
